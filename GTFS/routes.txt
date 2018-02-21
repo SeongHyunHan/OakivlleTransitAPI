@@ -1,0 +1,41 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,1,Trafalgar,,3,,004B8C,FFFFFF
+10,1,10,West Industrial,,3,,004B8C,FFFFFF
+11,1,11,Linbrook,,3,,004B8C,FFFFFF
+12,1,12,Winston Park,,3,,004B8C,FFFFFF
+120,1,120,East Industrial,,3,,004B8C,FFFFFF
+121,1,121,Southeast Industrial,,3,,004B8C,FFFFFF
+13,1,13,Westoak Trails,,3,,004B8C,FFFFFF
+14,1,14,Lakeshore West,,3,,004B8C,FFFFFF
+14A,1,14A,Lakeshore West,,3,,004B8C,FFFFFF
+15,1,15,Bridge,,3,,004B8C,FFFFFF
+17,1,17,Kerr,,3,,004B8C,FFFFFF
+18,1,18,Glen Abbey South,,3,,004B8C,FFFFFF
+19,1,19,River Oaks,,3,,004B8C,FFFFFF
+190,1,190,River Oaks Express,,3,,004B8C,FFFFFF
+20,1,20,Northridge,,3,,004B8C,FFFFFF
+24,1,24,South Common,,3,,004B8C,FFFFFF
+26,1,26,Falgarwood,,3,,004B8C,FFFFFF
+28,1,28,Glen Abbey North,,3,,004B8C,FFFFFF
+3,1,3,Third Line,,3,,004B8C,FFFFFF
+33,1,33,Palermo,,3,,004B8C,FFFFFF
+34,1,34,Pine Glen,,3,,004B8C,FFFFFF
+4,1,4,Speers-Cornwall,,3,,004B8C,FFFFFF
+5,1,5,Dundas,,3,,004B8C,FFFFFF
+54,1,54,East Oakville,,3,,004B8C,FFFFFF
+55,1,55,West Oakville,,3,,004B8C,FFFFFF
+5A,1,5A,Dundas,,3,,004B8C,FFFFFF
+6,1,6,Upper Middle,,3,,004B8C,FFFFFF
+71,1,71,White Oaks S.S. Special,,3,,004B8C,FFFFFF
+80,1,80,Holy Trinity,,3,,004B8C,FFFFFF
+81A,1,81A,Abbey Park and Loyola,,3,,004B8C,FFFFFF
+81B,1,81B,Abbey Park and Loyola,,3,,004B8C,FFFFFF
+81N,1,81N,Abbey Park North,,3,,004B8C,FFFFFF
+81S,1,81S,Abbey Park/Loyola South,,3,,004B8C,FFFFFF
+82,1,82,Loyola North,,3,,004B8C,FFFFFF
+83,1,83,Blakelock West,,3,,004B8C,FFFFFF
+84,1,84,O.T.H.S.,,3,,004B8C,FFFFFF
+86,1,86,Garth Webb,,3,,004B8C,FFFFFF
+90,1,90,John R. Rhodes Special,,3,,004B8C,FFFFFF
+91,1,91,Oakville Senior Citizens Special,,3,,004B8C,FFFFFF
+92,1,92,Knox Heritage Place Special,,3,,004B8C,FFFFFF
